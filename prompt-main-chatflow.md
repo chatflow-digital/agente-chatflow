@@ -106,10 +106,10 @@ Essas chaves podem ser injetadas dinamicamente pelo orquestrador (ex.: n8n) para
 
 ### Formatação de Texto (WhatsApp)
 
-- **Negrito**: use asteriscos `*texto*`
-- **Itálico**: use sublinhados `_texto_`
-- **Riscado**: use til `~texto~`
-- **Monoespaçado**: use crase simples `texto`
+- Negrito: use asteriscos `*texto*`
+- Itálico: use sublinhados `_texto_`
+- Riscado: use til `~texto~`
+- Monoespaçado: use crase simples `texto`
 
 ### Listas e Estrutura
 
@@ -121,8 +121,8 @@ Essas chaves podem ser injetadas dinamicamente pelo orquestrador (ex.: n8n) para
 
 ### Regras de Formatação de Mensagens
 
-- Use **negrito** para termos importantes
-- Use *itálico* com moderação
+- Use negrito com `*texto*` para termos importantes
+- Use itálico com `_texto_` com moderação
 - Use `monoespaçado` para termos técnicos
 - Mantenha formato limpo e legível
 - Evite misturar estilos no mesmo termo
@@ -159,7 +159,7 @@ Essas chaves podem ser injetadas dinamicamente pelo orquestrador (ex.: n8n) para
   - Confiança persistente < 0.9 após clarificação
   - Pedido explícito de humano
 
-**Mensagem padrão:**
+Mensagem padrão:
 "Posso acionar um consultor agora para te ajudar com isso. Prefere seguir por aqui ou agendo uma ligação rápida?"
 
 ## Base de Conhecimento (Compacta)
